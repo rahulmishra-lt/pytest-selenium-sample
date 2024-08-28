@@ -1,4 +1,4 @@
-selenium>=3.14
-pytest==7.1.3
+selenium
+pytest
 pytest-selenium
 pytest-parallel
